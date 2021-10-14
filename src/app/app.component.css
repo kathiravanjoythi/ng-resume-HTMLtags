@@ -1,0 +1,6 @@
+p {
+  font-family: Lato;
+}
+.table2 > th > td {
+  border: 1px solid black;
+}
